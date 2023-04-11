@@ -109,5 +109,4 @@ public class CompteBancaire implements Serializable {
     public CompteBancaire() {
     }
     
-
 }
